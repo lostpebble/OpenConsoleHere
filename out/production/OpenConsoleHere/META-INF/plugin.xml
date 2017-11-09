@@ -29,7 +29,7 @@
 
   <actions>
     <!-- Add your actions here -->
-    <action id="openinconsole.open.current" class="com.paulmyburgh.openconsolehere.action.ActionOpenInCurrentDirectory"
+    <action id="openinconsole.open.current" class="com.paulmyburgh.openinconsole.action.ActionOpenInCurrentDirectory"
             text="Open in Current Directory"
             description="Opens a console in the current directory / directory of the current file">
       <add-to-group group-id="ProjectViewPopupMenu" anchor="first"/>
